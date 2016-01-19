@@ -2,36 +2,96 @@
 #Container {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	background-color: #966;
-	height: 900px;
-	width: 1018px;
+	height: 100%;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
 }
 #nav_bar {
-	font-size: 16px;
-	background-color: #F60;
+	font-size: 24px;
 	text-align: center;
+	float: left;
 	font-weight: bold;
+	width: 80%;
+	margin-left: 10%;
+	height: 60px;
+	background-color: #FFF;
+	background-image: url(../../../CP_1406_assignment2/images/winter-wallpaper-20.jpg);
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #FF0;
 }
 #Footer {
-	background-color: #FF9;
+	background-color: #FFFFFF;
 	text-align: center;
 	font-size: 16px;
-	height: 30px;
-	width: 1018px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: #000;
+	background-image: url(../../../CP_1406_assignment2/images/meh.jpg);
 }
 
 #Header {
 	font-size: 50px;
 	text-align: center;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	background-color: #C90;
-	color: #000;
-	vertical-align: middle;
-
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: #FFFFFF;
+	color: #03F;
+	width: 80%;
+	float:left;
+	margin-left:10%;
+	background-image: url(../../../CP_1406_assignment2/images/rip.jpg);
 }
 #Main_Content {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-large;
 	font-style: normal;
-	color: #FFF;
+	background-color: #FFF;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	height: 1104px;
+	margin-left: 10%;
+	padding-top: 20px;
+	background-image: url(../../../CP_1406_assignment2/images/wood.jpg);
+}
+h1 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 65px;
+	text-align: center;	
+}
+body	{
+	margin: 0;
+	padding: 0;
+
+}
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 50px;
+}
+p	{
+	margin-left: 20px;
+	margin-top: 20px;
+
+}.word {
+	margin-left: 12px;
+}
+a:link {
+	color:#000;
+}
+a:hover {
+	background-color:#3FF;
+}
+a:active {
+	color:#FFF;
+}
+.word2 {
+	text-align:center;
+		
+}
+.image	{
+	float:left;
 }
