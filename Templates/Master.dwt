@@ -1,8 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="Diazepam, Diazepam Cafe, Ice-cream Cafe, Best Ice-cream Cafe" />
+<meta name="description" content="Diazepam is a cafe that aims to be the best Ice-Cream cafe in its whole region. " />
+
+<title>Diazepam</title>
 <link href="../styles/globalstyles.css" rel="stylesheet" type="text/css" />
 <link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
 <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
@@ -18,7 +20,7 @@
         <div id="navbar">
 <ul id="MenuBar1" class="MenuBarHorizontal">
       <li><a href="../aboutus.html">About Us</a></li>
-      <li><a href="../products.html">Products</a></li>
+      <li><a href="file:///C|/Users/User/Downloads/Compressed/Diazepam Cafe Hendry/products.html">Products</a></li>
       <li><a href="../events.html">Events</a></li>
       <li><a href="../onlinefashionshows.html"> Our Fashion Shows</a></li>
       <li><a href="../onlineorderform.html">Order Now</a></li>
